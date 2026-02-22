@@ -16,6 +16,8 @@ Dark GTNH Reimagined improves the GTNH user interface by applying a cohesive dar
 
 Some vanilla assets are from https://github.com/Flanisch/Scuffed-GTNH-Dark by Albi.
 
+Some assests are inpired or taken (bq theme) from https://github.com/Ranzuu/Shadow-UI by Ranzuu.
+
 Color scheme is taken from rembutquaglet (great Hypixel skyblock content), his youtube: https://www.youtube.com/@rembutquaglet.
 
 ---
