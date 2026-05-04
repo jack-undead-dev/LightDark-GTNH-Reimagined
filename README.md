@@ -1,6 +1,10 @@
 # Dark GTNH Reimagined
 
-**GT New Horizons – Dark UI Theme for 2.8.4**
+**You can find my resource pack on**
+- Modrinth: https://modrinth.com/resourcepack/dark-gtnh-reimagined
+- Curseforge: https://www.curseforge.com/minecraft/texture-packs/dark-gtnh-reimagined
+
+### GT New Horizons – Dark UI Theme for 2.8.4
 
 🎨 **Dark GTNH Reimagined** is a dark-themed UI resource pack created specifically for **GT New Horizons 2.8.4**, focusing on readability, visual consistency, and a clean modern interface.
 
