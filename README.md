@@ -1,58 +1,37 @@
-# Dark GTNH Reimagined
+<div align="center">
+    <img width="200" height="200" alt="logo" src="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/blob/main/packLarge.png?raw=true"/>
+    <h1>Dark GTNH Reimagined</h1>
+</div>
+  
+<div align="center">
+ <p><strong>A dark themed GUI resource pack made for GT:NH<strong></p>
+ <p>Current supported version: 2.8.4</p>
+ <p><a href="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/releases">To the download page!</a></p>
+</div>
 
-**You can find my resource pack on**
-- Modrinth: https://modrinth.com/resourcepack/dark-gtnh-reimagined
-- Curseforge: https://www.curseforge.com/minecraft/texture-packs/dark-gtnh-reimagined
+<hr><h2 align="center">Preview</h2>
 
-### GT New Horizons – Dark UI Theme for 2.8.4
+<p align="center">
+  <img src="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/blob/main/preview/img1.png?raw=true" alt="Preview1" width="240"/>
+  <img src="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/blob/main/preview/img2.png?raw=true" alt="Preview2" width="240"/>
+</p>
 
-🎨 **Dark GTNH Reimagined** is a dark-themed UI resource pack created specifically for **GT New Horizons 2.8.4**, focusing on readability, visual consistency, and a clean modern interface.
+<p align="center">
+  <img src="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/blob/main/preview/img3.png?raw=true" alt="Preview3" width="240"/>
+  <img src="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/blob/main/preview/img4.png?raw=true" alt="Preview4" width="240"/> 
+</p>
 
-💬 For feedback, bug reports, or texture requests, feel free to contact me on Discord: **@marneyy_**
+<hr><div align="center"><h2>About</h2>
+<p><strong>Dark GTNH Reimagined</strong> was made to apply the same theme for all GUIs while having a nice modern feel.</p>
+<p>Curseforge: <a href="https://www.curseforge.com/minecraft/texture-packs/dark-gtnh-reimagined">Download on Curseforge</a><br>
+Modrinth: <a href="https://modrinth.com/resourcepack/dark-gtnh-reimagined">Download on Modrinth</a></p>
+<p>Some assets were taken from: <a href="https://github.com/Flanisch/Scuffed-GTNH-Dark">Flanisch/Scuffed-GTNH-Dark</a>.<br>
+I was inspired by: <a href="https://github.com/Ranzuu/Shadow-UI">Ranzuu/Shadow-UI</a>.<br>
+Color theme credit: <a href="https://www.youtube.com/@rembutquaglet">Youtube/@rembutquaglet</a>.</p>
+<p>I strongly recommend using my pack <strong>together with Modernity</strong> (<a href="https://github.com/ABKQPO/Modernity-GTNH">ABKQPO/Modernity-GTNH</a>).</p></div>
 
-Now supports 100% of GUIs, be sure to report bugs.
+<hr><div align="center"><h2>License</h2>
+<p>This project is licensed under the<br>
+<strong>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</strong></p>
 
----
-
-## About
-
-Dark GTNH Reimagined improves the GTNH user interface by applying a cohesive dark style across menus and GUIs, making long play sessions more comfortable while preserving clarity and usability.
-
-Some vanilla assets are from https://github.com/Flanisch/Scuffed-GTNH-Dark by Albi.
-
-Some assests are inpired or taken (bq theme) from https://github.com/Ranzuu/Shadow-UI by Ranzuu.
-
-Color scheme is taken from rembutquaglet (great Hypixel skyblock content), his youtube: https://www.youtube.com/@rembutquaglet.
-
----
-
-## Recommended Resource Pack
-
-This UI resource pack is designed to be used **together with Modernity-GTNH**.
-
-https://github.com/ABKQPO/Modernity-GTNH
-
-### 📦 Recommended Load Order in Minecraft:
-1. Dark GTNH Reimagined  
-2. Modernity-GTNH  
-
-Using additional UI resource packs may result in visual inconsistencies.
-
----
-
-## Status & Feedback
-
-- Not all mod GUIs may be fully retextured yet  
-- Texture requests and UI bug reports are encouraged  
-- Focus is on consistency and usability  
-
-If you encounter visual issues or missing textures, please report them.
-
----
-
-## License
-
-This project is licensed under the  
-**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**
-
-🔗 https://creativecommons.org/licenses/by-nc-sa/4.0/
+<p align="center"><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">https://creativecommons.org/licenses/by-nc-sa/4.0/</a></p></div>
