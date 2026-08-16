@@ -2,5 +2,16 @@
   "pack": {
     "pack_format": 1,
     "description": "§fDark§f Mode for §9GT§gNH §22.8.4§f\nnow §ka§r §cReimagined §f§ka§r§f! by Kuliiuu"
+  },
+"gtnh_resource_pack_updater": {
+    "schema": 1,
+    "pack_name": "Dark GTNH Reimagined",
+    "pack_version": "3.0",
+    "pack_game_version": "2.8.X;2.9.X",
+    "source": {
+      "type": "github_releases",
+      "owner": "Kuliiuu",
+      "repo": "Dark-GTNH-Reimagined"
+    }
   }
 }
