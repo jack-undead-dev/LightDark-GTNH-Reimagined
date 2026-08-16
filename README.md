@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/blob/main/preview/img3.png?raw=true" alt="Preview3" width="240"/>
-  <img src="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/blob/main/preview/img4.png?raw=true" alt="Preview4" width="240"/> 
+  <img src="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/blob/main/preview/img0.png?raw=true" alt="Preview4" width="240"/> 
 </p>
 
 <hr><div align="center"><h2>About</h2>
