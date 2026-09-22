@@ -46,14 +46,10 @@
 
 <hr>
 
-<div align="center">
+<div align="left">
 
   <h2>License</h2>
-  <p>This project is licensed under the<br>
-    <strong>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</strong>
-  </p>
-
-  <p align="center">
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">https://creativecommons.org/licenses/by-nc-sa/4.0/</a>
+  <p align="left">
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</a>
   </p>
 </div>
