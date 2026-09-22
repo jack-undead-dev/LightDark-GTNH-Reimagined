@@ -1,13 +1,12 @@
 <div align="center">
-    <img width="200" height="200" alt="logo" src="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/blob/main/packLarge.png?raw=true"/>
+    <img width="200" height="200" alt="logo" src="https://github.com/jack-undead-dev/LightDark-GTNH-Reimagined/blob/main/packLarge.png?raw=true"/>
     <h1>LightDark GTNH Reimagined</h1>
 </div>
   
 <div align="center">
- <p><strong>A light dark themed GUI resource pack made for GT:NH, forked from Kuliiuu's Dark GTNH Reimagined.<strong></p>
+ <p><strong>A light dark themed GUI resource pack made for GT:NH, <a href="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/">forked from Kuliiuu's Dark GTNH Reimagined.</a><strong></p>
  <p>Current supported version: 2.8.4</p>
- <p><a href="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/releases">Original GTNH Dark this project was forked from.</a></p>
- <p><a href="https://github.com/jack-undead-dev/LightDark-GTNH-Reimagined/releases">Check out the releases.</a></p>
+ <p><a href="https://github.com/jack-undead-dev/LightDark-GTNH-Reimagined/releases">Download the pack.</a></p>
 </div>
 
 <hr><h2 align="center">Preview</h2>
@@ -23,7 +22,8 @@
 </p>
 
 <hr><div align="center"><h2>About</h2>
-<p><strong>LightDark GTNH Reimagined</strong> was made as a recolor of the original Dark GTNH Reimagined as I peronsally thought the original resource pack, while useful for a dark mode, was a bit **too dark** for my taste, which made reading and looking for some items a bit hard. So I've changed some of it around in the pursuit of a lighter color palette while keeping the same modern feel of the original.</p>
+<p><strong>LightDark GTNH Reimagined</strong> was made as a recolor of the original Dark GTNH Reimagined as I personally thought the original resource pack, while useful for a dark mode, was a bit <i>too</i> dark for my taste, which made reading and looking for some items a bit hard.<br>
+I've changed some of it around in the pursuit of a lighter color palette while keeping the same modern feel of the original.</p>
 <p>Curseforge: <a href="#">TBA</a><br>
 Modrinth: <a href="#">TBA</a></p>
 <p>
