@@ -3,32 +3,26 @@
     <h1>LightDark GTNH Reimagined</h1>
 </div>
   
-<div align="center">
- <p>A light dark themed GUI resource pack made for GT:NH, <a href="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/">forked from Kuliiuu's Dark GTNH Reimagined.</a></p>
+<div align="left">
+ <p>A light dark themed GUI resource pack made for GregTech New Horizons, forked from <a href="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/">Kuliiuu's Dark GTNH Reimagined.</a></p>
  <p>Current GTNH supported version: 2.8.4</p>
  <p><a href="https://github.com/jack-undead-dev/LightDark-GTNH-Reimagined/releases">Download the pack.</a></p>
 </div>
 
 <hr>
 
-<h2 align="center">Preview</h2>
+<h2 align="left">Preview</h2>
 <p align="center">
-  <img src="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/blob/main/preview/img1.png?raw=true" alt="Preview1" width="240"/>
-  <img src="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/blob/main/preview/img2.png?raw=true" alt="Preview2" width="240"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/blob/main/preview/img3.png?raw=true" alt="Preview3" width="240"/>
-  <img src="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/blob/main/preview/img0.png?raw=true" alt="Preview4" width="240"/> 
+  <bold>TBA</bold>
 </p>
 
 <hr>
 
-<div align="center">
+<div align="left">
   <h2>About</h2>
 
   <p>
-    <strong>LightDark GTNH Reimagined</strong> was made as a recolor of the original Dark GTNH Reimagined as I personally thought the original resource pack, while useful for a dark mode, was a bit <i>too dark</i> for my taste, which made reading and looking for some items a bit hard.<br>
+    <bold>LightDark GTNH Reimagined</bold> was made as a recolor of the original Dark GTNH Reimagined as I personally thought the original resource pack, while useful for a dark mode, was a bit <i>too dark</i> for my taste, which made reading and looking for some items a bit hard.<br>
     I've changed some of it around in the pursuit of a lighter color palette while keeping the same modern feel of the original.
   </p>
   <p>
