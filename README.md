@@ -1,49 +1,33 @@
-<div align="center">
-    <img width="200" height="200" alt="logo" src="https://github.com/jack-undead-dev/LightDark-GTNH-Reimagined/blob/main/packLarge.png?raw=true"/>
-    <h1>LightDark GTNH Reimagined</h1>
-</div>
-  
-<div align="left">
- <p>A light dark themed GUI resource pack made for GregTech New Horizons, forked from <a href="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/">Kuliiuu's Dark GTNH Reimagined.</a></p>
- <p>Current GTNH supported version: 2.8.4</p>
- <p>Download the resource pack: <a href="#">WIP</a></p>
-</div>
+<img width="200" height="200" alt="GTNH dark logo" src="https://github.com/jack-undead-dev/LightDark-GTNH-Reimagined/blob/main/packLarge.png?raw=true"/>
 
-<hr>
+# LightDark GTNH Reimagined  
 
-<h2 align="left">Preview</h2>
-<p align="center">
-  <bold>TBA</bold>
-</p>
+A light dark themed GUI resource pack made for GregTech New Horizons, forked from [Kuliiuu's Dark GTNH Reimagined][origDrkGtnh].
+Current GTNH supported version: [2.8.4][gtnhRelease]
+Download the resource pack: [WIP][wip]
 
-<hr>
+## Preview
+**TBA**
 
-<div align="left">
-  <h2>About</h2>
+## About
 
-  <p>
-    <bold>LightDark GTNH Reimagined</bold> was made as a recolor of the original Dark GTNH Reimagined as I personally thought the original resource pack, while useful for a dark mode, was a bit <i>too dark</i> for my taste, which made reading and looking for some items a bit hard.<br>
-    I'm changing it around in the pursuit of a lighter color palette while keeping the same modern feel of the original.
-  </p>
-  <p>
-    Curseforge: <a href="#">TBA</a><br>
-    Modrinth: <a href="#">TBA</a></p>
-  <p>
-  Original resource pack created by: <a href="https://github.com/Kuliiuu/Dark-GTNH-Reimagined">Kuliiuu/Marneyy_</a>.<br>
-  Some assets were taken from: <a href="https://github.com/Flanisch/Scuffed-GTNH-Dark">Flanisch/Scuffed-GTNH-Dark</a>.<br>
-  Color theme inspired by <a href="https://github.com/morhetz/gruvbox">Gruvbox.</a></p>
-  <p>
-    As in the original, it is strongly recommended to use this pack alongside <a href="https://www.curseforge.com/minecraft/texture-packs/modernity">Modernity</a> or its 
-    <a href="https://github.com/ABKQPO/Modernity-GTNH">GTNH version</a>.
-  </p>
-</div>
+**LightDark GTNH Reimagined** was made as a recolor of the original Dark GTNH Reimagined as I personally thought the original resource pack, while useful for a dark mode, was a bit *too dark* for my taste, which made reading and looking for some items a bit hard.  
 
-<hr>
+I'm changing it around in the pursuit of a lighter color palette, and better **contrast**, while keeping the same modern feel of the original.  
 
-<div align="left">
+Original dark reimagined resource pack created by: [Kuliiuu/Marneyy_][origDrkGtnh]   
+Some assets were taken from: [Flanisch/Scuffed-GTNH-Dark][scuffedGtnhDark]  
+Color theme inspired by [Gruvbox][gruvbox]  
+As in the original, it is strongly recommended to use this pack alongside [Modernity][modernity] or its [GTNH version][modernityGtnh].
 
-  <h2>License</h2>
-  <p align="left">
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</a>
-  </p>
-</div>
+## License
+[Creative Commons BY-NC-SA 4.0][license].
+
+[origDrkGtnh]: https://github.com/Kuliiuu/Dark-GTNH-Reimagined/
+[gtnhRelease]: https://www.gtnewhorizons.com/version-history/
+[wip]: #
+[modernity]: https://www.curseforge.com/minecraft/texture-packs/modernity
+[modernityGtnh]: https://github.com/ABKQPO/Modernity-GTNH
+[gruvbox]: https://github.com/morhetz/gruvbox
+[scuffedGtnhDark]: https://github.com/Flanisch/Scuffed-GTNH-Dark
+[license]: https://creativecommons.org/licenses/by-nc-sa/4.0/
