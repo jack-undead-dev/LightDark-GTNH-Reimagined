@@ -8,7 +8,9 @@ Download the resource pack: [WIP][wip]
 
 ## Preview
 
-<img width="100" height="100" alt="inventory lightDark preview" src="https://github.com/jack-undead-dev/LightDark-GTNH-Reimagined/blob/main/preview/img0.png">
+<div align="center">
+  <img width="300" alt="inventory lightDark preview" src="https://github.com/jack-undead-dev/LightDark-GTNH-Reimagined/blob/main/preview/img0.png">
+</div>  
 
 ## About
 
