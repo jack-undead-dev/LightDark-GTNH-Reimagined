@@ -6,7 +6,7 @@
 <div align="left">
  <p>A light dark themed GUI resource pack made for GregTech New Horizons, forked from <a href="https://github.com/Kuliiuu/Dark-GTNH-Reimagined/">Kuliiuu's Dark GTNH Reimagined.</a></p>
  <p>Current GTNH supported version: 2.8.4</p>
- <p>Download the resource pack: <a href="#">WIP.</a></p>
+ <p>Download the resource pack: <a href="#">WIP</a></p>
 </div>
 
 <hr>
@@ -23,7 +23,7 @@
 
   <p>
     <bold>LightDark GTNH Reimagined</bold> was made as a recolor of the original Dark GTNH Reimagined as I personally thought the original resource pack, while useful for a dark mode, was a bit <i>too dark</i> for my taste, which made reading and looking for some items a bit hard.<br>
-    I've changed some of it around in the pursuit of a lighter color palette while keeping the same modern feel of the original.
+    I'm changing it around in the pursuit of a lighter color palette while keeping the same modern feel of the original.
   </p>
   <p>
     Curseforge: <a href="#">TBA</a><br>
