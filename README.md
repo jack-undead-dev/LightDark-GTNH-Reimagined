@@ -2,9 +2,9 @@
 
 # LightDark GTNH Reimagined  
 
-A light dark themed GUI resource pack made for GregTech New Horizons, forked from [Kuliiuu's Dark GTNH Reimagined][origDrkGtnh].
-Current GTNH supported version: [2.8.4][gtnhRelease]
-Download the resource pack: [WIP][wip]
+A light dark themed GUI resource pack made for GregTech New Horizons, forked from [Kuliiuu's Dark GTNH Reimagined][origDrkGtnh]  
+Current GTNH supported version: [2.8.4][gtnhRelease]  
+Download the resource pack: [WIP][wip]  
 
 ## Preview
 **TBA**
